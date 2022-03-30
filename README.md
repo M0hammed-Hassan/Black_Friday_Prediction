@@ -9,6 +9,7 @@ This project helps us predict purchase amount by using the black friday dataset.
 - Warnings
 ## Target Distribution
 <img src="Images/Target Distribution.png" alt="Target Distribution">
+
 ## R2 Score
 <img src="Images/R2.png" alt="R2">
 
